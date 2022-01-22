@@ -1,4 +1,4 @@
-.PHONY: build watch
+.PHONY: install install/immutable build watch lint fix/eslint fix/prettier fix
 
 install:
 	yarn install
