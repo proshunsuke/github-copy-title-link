@@ -1,0 +1,25 @@
+{
+	"name": "github-copy-title-link",
+	"version": "0.0.1",
+	"description": "Copy the title and URL from the pull request and issue on GitHub. You can paste them directly into Google Docs.",
+	"author": "proshunsuke",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/node": "*",
+		"@typescript-eslint/eslint-plugin": "*",
+		"@typescript-eslint/parser": "*",
+		"@yarnpkg/esbuild-plugin-pnp": "*",
+		"esbuild": "*",
+		"esbuild-register": "*",
+		"eslint": "*",
+		"eslint-config-airbnb-base": "*",
+		"eslint-config-airbnb-typescript": "*",
+		"eslint-config-prettier": "*",
+		"eslint-plugin-import": "*",
+		"eslint-plugin-jest": "*",
+		"prettier": "*",
+		"type-fest": "*",
+		"typescript": "*"
+	},
+	"packageManager": "yarn@3.1.1"
+}
