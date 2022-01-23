@@ -1,6 +1,6 @@
 {
 	"name": "github-copy-title-link",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Copy the title and URL from the pull request and issue on GitHub. You can paste them directly into Google Docs.",
 	"author": "proshunsuke",
 	"license": "MIT",
