@@ -1,7 +1,7 @@
 {
 	"name": "github-copy-title-link",
 	"version": "0.0.2",
-	"description": "Copy the title and URL from the pull request and issue on GitHub. You can paste them directly into Google Docs.",
+	"description": "Copy the title and URL of the Pull request and Issue pages. Then, you can paste them directly into Google Docs.",
 	"author": "proshunsuke",
 	"license": "MIT",
 	"devDependencies": {
