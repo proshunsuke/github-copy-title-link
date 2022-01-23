@@ -4,9 +4,9 @@
 
 ## Features
 
-In the header of the GitHub page, there will be a new item called "Copy title link".  
-By clicking on that item, you can copy the title and URL from the pull request and issue on GitHub.  
-And, you can paste them directly into Google Docs, for example.
+* A new element called "Copy title link" will be added to the header of the GitHub page.
+* By clicking on that element, you can copy the title and URL of the Pull request and Issue pages.
+* Then, you can paste them directly into Google Docs, for example.
 
 ![example](./example.gif)
 

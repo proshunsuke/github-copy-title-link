@@ -11,8 +11,7 @@ const userScriptBanner = `
 // @namespace    https://github.com
 // @version      ${packageJson.version}
 // @description  ${packageJson.description}
-// @include      /^https://github.com/.*/pull/\\d*/
-// @include      /^https://github.com/.*/issues/\\d*/
+// @include      /^https://github.com/.*/
 // @author       ${packageJson.author}
 // @license      ${packageJson.license}
 // @grant        none

@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name         github-copy-title-link
 // @namespace    https://github.com
-// @version      0.0.1
-// @description  Copy the title and URL from the pull request and issue on GitHub. You can paste them directly into Google Docs.
-// @include      /^https://github.com/.*/pull/\d*/
-// @include      /^https://github.com/.*/issues/\d*/
+// @version      0.0.2
+// @description  Copy the title and URL of the Pull request and Issue pages. Then, you can paste them directly into Google Docs.
+// @include      /^https://github.com/.*/
 // @author       proshunsuke
 // @license      MIT
 // @grant        none
